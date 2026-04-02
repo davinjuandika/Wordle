@@ -16,8 +16,8 @@ There are two ways to play this game depending on what you prefer:
    ```bash
    python Wordle.py
 
-*🛠️ Built With
-Python
+🛠️ Built With
+- Python
 
-*🌱 About this Project
+🌱 About this Project
 This is actually the first time i tried to make things and pushing to Github (Cooked 💀💀💀)
